@@ -4,6 +4,7 @@ Cheat Engine. A development environment focused on modding games and application
 
 For the latest version:
 [![Recent CE Download](./molumen-download-button-1-800px.png)](https://github.com/cheat-engine/cheat-engine/releases/download/v6.8.1/CheatEngine681.exe)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fakahippac%2Fcheat-engine.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fakahippac%2Fcheat-engine?ref=badge_shield)
 
 For older versions, check out https://github.com/cheat-engine/cheat-engine/releases
 
@@ -40,3 +41,7 @@ When you're done, push your branch to your personal fork.  Finally go to the
 original Cheat Engine repository and create a pull request.  Click on
 'compare across forks' and select your fork as the head fork and your new
 branch.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fakahippac%2Fcheat-engine.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fakahippac%2Fcheat-engine?ref=badge_large)
